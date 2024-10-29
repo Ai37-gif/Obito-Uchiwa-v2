@@ -1,6 +1,6 @@
 {
   "facebookAccount": {
-    "email": "08121662697",
+    "email": "08121662691",
     "password": "",
     "2FASecret": "",
     "i_user": "61565718158450",
@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100017555747989"
+    "100040200875426"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "『 + 』•𝗠𝗔𝗧𝗘𝗢 𝗖𝗛𝗔𝗧𝗕𝗢𝗧 ( 𝙻𝚃𝙳 )",
-  "prefix": "+",
+  "nickNameBot": "Obito Uchiwa ",
+  "prefix": "🌀",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -36,15 +36,12 @@
   "timeZone": "Africa/Lagos",
   "credentials": {
     "gmailAccount": {
-      "email": "g13065994@gmaîl.com",
-      "clientId": "96871167660-5js0qjdlpr2mcd331kv5obpifev5j69r.apps.googleusercontent.com",
-      "clientSecret": "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",
-      "refreshToken": "1//04qK_zxJkdK7RCgYIARAAGAQSNwF-L9IrZOdI4prCgpqvAoDEvn-HpuSugKxBTRNoGS37QwxfAWJUCehSKhdas26xOh-SjmdR4uw",
-      "apiKey": ""
-    },
-    "gRecaptcha": {
-      "siteKey": "6LfDe7QmAAAAAMdncmzO8RDLROsn_U-VPkuV_LzZ",
-      "secretKey": "6LfDe7QmAAAAAOyLAlcnK-YxCVWwzdjow-h5pNJg"
+      "email": "angesk37@gmail.com",
+      "clientId": "396911933138-qj83n5o1pfkv9lnh2uch4iqrrt68qnui.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//047h1e_jxxvggCgYIARAAGAQSNwF-L9IrjV7vGZ5clrU23brMrcXE3SKj8hRQ1A3v8h853yP0bZ5O2Tx6LAL5gtbea1Eh4LrlMio": {
+      "siteKey": "6LdERVsqAAAAAIEwQaDeWDe_mVHevkWl-sX_Koih",
+      "secretKey": "6LdERVsqAAAAAL8rH4q78fveQnlCBhC-6r4vyw0l"
     }
   },
   "dashBoard": {
